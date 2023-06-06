@@ -30,7 +30,6 @@
 </head>
 <body>
    <div id="text-display">
-    test
     <p id="count-text">
         Counter:
         <span id="counter">
